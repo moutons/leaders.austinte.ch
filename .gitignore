@@ -1,0 +1,33 @@
+# Netlify
+.netlify
+*.lock
+
+# IntelliJ
+*.iml
+.idea/*
+
+
+# Vim
+*~
+*.swp
+*.swo
+
+# Visual Studio Code
+.vscode/
+.vs/*
+
+# MacOS
+.DS_Store
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# build dirs
+public
+dist
+tmp
+
+# nodejs
+node_modules
+package-lock.json
