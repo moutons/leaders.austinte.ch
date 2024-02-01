@@ -1,0 +1,20 @@
+baseURL = 'https://leaders.austinte.ch/'
+languageCode = 'en-us'
+title = 'Austin Tech Leaders'
+theme = 'dot-org-hugo-theme'
+timeZone = 'America/Chicago'
+enableEmoji = true
+enableRobotsTXT = true
+hasCJKLanguage = false
+sticky_header = true
+show_search = true
+
+[privacy.youtube]
+privacyEnhanced = true
+
+[privacy.vimeo]
+enableDNT = true
+
+[social_links]
+github = 'https://github.com/moutons'
+linkedin = 'https://linkedin.com/in/sdmouton'
