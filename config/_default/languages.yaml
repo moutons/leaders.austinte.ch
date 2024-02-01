@@ -13,7 +13,7 @@ en:
       help_url: "/about/"
     ### calls to action ###
     main_cta:
-      text: "Join Us in March"
+      text: "Join us in March"
       link: "/mvp/"
     footer_cta:
       text: "Mailing List"
@@ -24,49 +24,51 @@ en:
     main:
     - identifier: "about"
       name: "About"
-      url: "/about-us/"
+      url: "/about/"
       weight: 1
-    - identifier: ""
-      name: "Example Child Page 1"
-      url: "/example-page/"
-      weight: 1
-      post: "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo."
-      parent: "about"
-    - identifier: "child-2"
-      name: "Example Child Page 2"
-      url: "/example-page/"
-      weight: 2
-      post: "Aenean commodo ligula get dolor. Aenean massa."
-      parent: "about"
-    - identifier: "child-3"
-      name: "Example Child Page 3"
-      url: "/example-page/"
-      weight: 3
-      post: "Nulla consequat massa quis enim. Donec pede justo."
-      parent: "about"
+
+    # - identifier: ""
+    #   name: "Example Child Page 1"
+    #   url: "/example-page/"
+    #   weight: 1
+    #   post: "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo."
+    #   parent: "about"
+    # - identifier: "child-2"
+    #   name: "Example Child Page 2"
+    #   url: "/example-page/"
+    #   weight: 2
+    #   post: "Aenean commodo ligula get dolor. Aenean massa."
+    #   parent: "about"
+    # - identifier: "child-3"
+    #   name: "Example Child Page 3"
+    #   url: "/example-page/"
+    #   weight: 3
+    #   post: "Nulla consequat massa quis enim. Donec pede justo."
+    #   parent: "about"
     
-    - identifier: "example"
-      name: "Example"
-      url: "/example-page/"
+    - identifier: "upcoming"
+      name: "Upcoming Events"
+      url: "/upcoming/"
       weight: 2
-    - identifier: "example-1"
-      name: "Example Child Page 4"
-      url: "/example-page/"
+
+    - identifier: "mvp"
+      name: "The MVP, March 2nd 2024"
+      url: "/mvp/"
       weight: 1
-      post: "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo."
-      parent: "example"
-    - identifier: "example-2"
-      name: "Example Child Page 5"
-      url: "/example-page/"
+      post: "Join us for our inaugural event on March 2nd"
+      parent: "upcoming"
+    - identifier: "cloudaustin"
+      name: "CloudAustin Meetup"
+      url: "/cloud-austin/"
       weight: 2
-      post: "Nulla consequat massa quis enim. Donec pede justo."
-      parent: "example"
-    - identifier: "example-3"
-      name: "Example Child Page 6"
-      url: "/example-page/"
+      post: "The Cloud Austin Meetup runs once per month. Join us!"
+      parent: "upcoming"
+    - identifier: "austindevops"
+      name: "Austin DevOps Meetup"
+      url: "/austin-devops/"
       weight: 3
-      post: "Aenean commodo ligula get dolor. Aenean massa. "
-      parent: "example"
+      post: "The Austin DevOps Meetup runs once per month. Join us!"
+      parent: "upcoming"
     
     - identifier: "demo-page"
       name: "Demo Page"

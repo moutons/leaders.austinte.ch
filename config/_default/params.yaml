@@ -12,7 +12,7 @@ custom_css: []
 images: ["/img/social-share.png"]
 
 github:
-  repo_url: "https://github.com/sdmouton/leaders.austinte.ch/blob/master"
+  repo_url: "https://github.com/moutons/leaders.austinte.ch/blob/master"
   show_edit_link: true
 
 social_links:
@@ -20,7 +20,7 @@ social_links:
   discord: ""
   facebook: ""
   flickr: ""
-  github: "https://github.com/sdmouton"
+  github: "https://github.com/moutons/leaders.austinte.ch"
   instagram: ""
   landscape: ""
   linkedin: "https://www.linkedin.com/company/austintech"
