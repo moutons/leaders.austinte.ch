@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "npm install && hugo --environment=production --themesDir=. --baseURL ${DEPLOY_PRIME_URL}  && npx -y pagefind --site public"
+command = "npm install && hugo --environment=production&& npx -y pagefind --site public"
 
 [build.environment]
 NODE_VERSION = "20.11.0"
