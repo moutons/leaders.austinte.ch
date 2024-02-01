@@ -1,0 +1,13 @@
+[build]
+publish = "public"
+command = "npm install && hugo --environment=production --themesDir=. --baseURL ${DEPLOY_PRIME_URL}  && npx -y pagefind --site public"
+
+[build.environment]
+NODE_VERSION = "20.11.0"
+HUGO_VERSION = "0.121.2"
+HUGO_THEME = "dot-org-hugo-theme"
+
+[[headers]]
+  for = "/*"
+    [headers.values]
+      Access-Control-Allow-Origin = "*"
