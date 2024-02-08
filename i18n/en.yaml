@@ -1,0 +1,39 @@
+hero1:
+  other: Austin Tech Community
+
+hero2:
+  other: A group of people
+
+subhero:
+  other: A community for Austin Tech Leaders
+
+explainerText:
+  other: Join us on Saturday, March 2, 2024 for an unconference by and for technologists and leaders in the Austin area.
+
+explainerButton:
+  other: RSVP
+
+sectionTitle:
+  other: Activities
+
+sectionTitle1:
+  other: Upcoming Events
+sectionText1:
+  other: Places to meet in person
+sectionButton1:
+  other: Explore
+
+sectionTitle2:
+  other: Community
+sectionText2:
+  other: Chat with others in our forum
+sectionButton2:
+  other: Discourse
+
+sectionTitle3:
+  other: Questions
+sectionText3:
+  other: Have questions? Start here.
+sectionButton3:
+  other: FAQ
+
