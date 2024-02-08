@@ -1,9 +1,6 @@
 hero1:
   other: Austin Tech Community
 
-hero2:
-  other: A group of people
-
 subhero:
   other: A community for Austin Tech Leaders
 
@@ -12,6 +9,9 @@ explainerText:
 
 explainerButton:
   other: RSVP
+
+explainerButton2:
+  other: Learn more
 
 sectionTitle:
   other: Activities

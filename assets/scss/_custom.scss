@@ -167,3 +167,7 @@ $mobile-max: 999px;
     column-gap: 3%;
     row-gap: 50px;
 }
+
+h3.button.nolink > a {
+    all: unset;
+}
