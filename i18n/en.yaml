@@ -1,0 +1,39 @@
+hero1:
+  other: Austin Tech Leaders
+
+hero2:
+  other: A Community
+
+subhero:
+  other: A community for Austin Tech Leaders
+
+explainerText:
+  other: stuff
+
+explainerButton:
+  other: About
+
+sectionTitle:
+  other: Activities
+
+sectionTitle1:
+  other: Upcoming Events
+sectionText1:
+  other: Places to meet in person
+sectionButton1:
+  other: Explore
+
+sectionTitle2:
+  other: Community
+sectionText2:
+  other: Chat with others in our forum
+sectionButton2:
+  other: Discourse
+
+sectionTitle3:
+  other: Questions
+sectionText3:
+  other: Have questions? Start here.
+sectionButton3:
+  other: FAQ
+
