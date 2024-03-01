@@ -13,8 +13,8 @@ en:
       help_url: "/about/"
     ### calls to action ###
     main_cta:
-      text: "Join us in March"
-      link: "/mvp/"
+      text: "Review upcoming events"
+      link: "/upcoming/"
     footer_cta:
       text: "Mailing List"
       link: "/mailing-list/"
@@ -32,12 +32,12 @@ en:
       url: "/upcoming/"
       weight: 2
 
-    - identifier: "mvp"
-      name: "The MVP, March 2nd 2024"
-      url: "/mvp/"
-      weight: 1
-      post: "Join us for our inaugural event on March 2nd"
-      parent: "upcoming"
+#    - identifier: "mvp"
+#      name: "The MVP, March 2nd 2024"
+#      url: "/mvp/"
+#      weight: 1
+#      post: "Join us for our inaugural event on March 2nd"
+#      parent: "upcoming"
     - identifier: "cloudaustin"
       name: "CloudAustin Meetup"
       url: "/cloud-austin/"
